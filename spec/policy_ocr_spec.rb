@@ -16,7 +16,7 @@ describe PolicyOcr do
 
   # Have it read the file and equate to the given information
   # it 'reads file and equate to the numbers' do
-    
+    # TODO: Read File and have it equate to the numbers in the numbers.rb file
   # end
 end
 

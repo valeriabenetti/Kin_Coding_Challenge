@@ -1,5 +1,6 @@
 require_relative '../lib/converter'
 
+# Creating a Converter to convert the Pipes and Underscores over to readable numbers
 describe Converter do
     subject { described_class.read_char(lines) }
 

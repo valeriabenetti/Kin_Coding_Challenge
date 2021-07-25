@@ -17,6 +17,7 @@ Your first task is to write a program that can take this file and parse it into 
 
 ## Notes
 I have User Story 1 completed of sorts. Having trouble trying to get it to read the mixed numbers and the sample text file itself.
+I do believe I am missing the "?" part of the notes that were left in the pdf.
 
 
 # User Story 2
@@ -33,7 +34,8 @@ identifies if it is a valid policy number.
 
 
 ## Notes
-I don't really understand the concept of checksum. This is pretty new for me and I've never actually done any work with that in real life.
+I don't really understand the concept of checksum. 
+This is pretty new concept for me and I've never actually done any work with checksum and wouldn't know how to get it to work.
 
 
 # User Story 3
@@ -49,7 +51,9 @@ Third task: write code that creates this file in the desired output.
 
 
 ## Notes
-
+I wasn't able to get to this user story as I took my time trying to get User Story 1 to as close as completed as possible. 
+I am still trying to get back into the swing of things as it has been awhile since I've done code work. 
+Please excuse my lack of completing all of the user stories.
 
 
 
@@ -69,3 +73,18 @@ Your final task is to write code that does the guess work described above to rem
 and ILL as can safely be done.
 
 ## Notes
+I wasn't able to get to this user story as I took my time trying to get User Story 1 to as close as completed as possible. 
+I am still trying to get back into the swing of things as it has been awhile since I've done code work. 
+Please excuse my lack of completing all of the user stories.
+
+# How I ran my tests
+Within the console after opening the file in VS Code I did a quick `bundle/bundle` update on the 
+project folder that way all the gems are up to date.
+
+From there you will need to run a simple `rspec spec/` to test all the spec files that were created.
+You might see a deprecation warning. But that is beacuse I am using what I still remember from before. 
+I will need to look up some information on updating the tests that way the warnings can go away.
+
+
+Again...I apologize for not completing to the best of my ability on the rest of the user stories. 
+There is still a lot that I need to learn and hopefully I can learn with this team.
